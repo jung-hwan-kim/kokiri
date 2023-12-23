@@ -1,0 +1,14 @@
+[
+ {:msg "베터리가 이미 %s%% 충전되었습니다."
+  :title "베터리주의"
+  :voice "Yuna (Premium)"}
+ {:msg "バッテリーがもう %s%% 充電されました。"
+  :title "バッテリー注意"
+  :voice "Kyoko (Enhanced)"}
+ {:msg "Battery is already charged at %s%%."
+  :title "Battery Warning"
+  :voice "Zoe"}
+ {:msg "전기의 은총이 저를 가득 채워 힘의 물결로 넘쳐흐릅니다. 바테루야~"
+  :title "전기충만"
+  :voice "Yuna (Premium)"}
+ ]
